@@ -1,24 +1,27 @@
 <!-- =========================================================
   Aryan Dwivedi • GitHub Profile README
-  Premium • Technical • Clean • Future-proof
+  Clean • Technical • Polished (no flaky banner embeds)
 ========================================================= -->
 
+<h1 align="center">Aryan Dwivedi</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Aryan%20Dwivedi&fontAlignY=40&desc=MS%20AI%20%40%20Northwestern%20University%20%E2%80%A2%20ML%20%26%20AI%20Engineering&descAlignY=65&color=0:0B1220,100:2563EB" />
+  <b>MS in Artificial Intelligence @ Northwestern University</b><br/>
+  ML & AI Engineering • Applied Deep Learning • ML Systems • Research Engineering
 </p>
 
 <p align="center">
   <a href="mailto:aryandwivedi352@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-aryandwivedi352%40gmail.com-111827?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aryan-dwivedi-20aa56202/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Dwivedi-2563EB?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aryan9dwivedi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-View-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-0F172A?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Aryan9Dwivedi?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore-16A34A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-16A34A?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -32,17 +35,7 @@
 ---
 
 ## 👋 About
-MS in Artificial Intelligence @ Northwestern University.  
-Building **ML systems** and **research prototypes** with strong fundamentals + clean engineering.
-
----
-
-## ⚡ Focus Areas
-- Applied Deep Learning
-- ML Systems & MLOps Foundations
-- Data Engineering for ML
-- Backend APIs for AI Products
-- Simulation / System Design
+I build **machine learning systems** and **research prototypes** with an engineering-first mindset: clean data, strong evaluation, and scalable implementation.
 
 ---
 
@@ -54,7 +47,7 @@ Building **ML systems** and **research prototypes** with strong fundamentals + c
 <p align="center">
   <img src="https://img.shields.io/badge/Transformers-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/OpenAI%20API-111827?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-111827?style=flat-square&logo=weightsandbiases&logoColor=FFBE00" />
   <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626" />
   <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF" />
@@ -67,14 +60,23 @@ Building **ML systems** and **research prototypes** with strong fundamentals + c
 
 ---
 
+## ⚡ Focus Areas
+- Applied Deep Learning
+- ML Systems & MLOps Foundations
+- Data Engineering for ML
+- Backend APIs for AI Products
+- Simulation / System Design
+
+---
+
 ## 📌 Featured Projects
-- **ML Playground** — Interactive ML playground + learning toolkit  
+- **ML Playground**  
   https://github.com/Aryan9Dwivedi/Ml-Playground
 
-- **Black Hole Simulation** — Simulation-focused engineering project  
+- **Black Hole Simulation**  
   https://github.com/Aryan9Dwivedi/BlackHole-Simulation-
 
-- **PRES** — Player Recommendation & Evaluation System  
+- **PRES (Player Recommendation & Evaluation System)**  
   https://github.com/Aryan9Dwivedi/Player-Recommendation-Evaluation-System-PRES-
 
 ---
