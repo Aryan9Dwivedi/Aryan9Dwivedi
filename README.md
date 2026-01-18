@@ -1,70 +1,75 @@
 <!-- =========================================================
   Aryan Dwivedi • GitHub Profile README
-  Clean • Technical • Polished • Future-proof
+  Premium • Technical • Minimal Yap • Future-Proof
 ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&text=Aryan%20Dwivedi&fontAlignY=50&desc=MS%20AI%20%40%20Northwestern%20University%20%E2%80%A2%20Machine%20Learning%20%26%20Research%20Engineering&descAlignY=78" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Aryan%20Dwivedi&fontAlignY=38&desc=MS%20AI%20%40%20Northwestern%20University%20%E2%80%A2%20ML%20%26%20AI%20Engineering&descAlignY=62" />
 </p>
 
 <p align="center">
   <a href="mailto:aryandwivedi352@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryandwivedi352%40gmail.com-informational?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-aryandwivedi352%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Dwivedi-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Dwivedi-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aryan9dwivedi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Aryan9Dwivedi?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore-2ea44f?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-16A34A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&center=true&vCenter=true&width=700&lines=Applied+Deep+Learning;ML+Systems+%26+Research+Engineering;Data+Pipelines+%7C+Modeling+%7C+Deployment;Building+tools+that+ship+%26+scale" />
+  <img src="https://img.shields.io/badge/Applied%20Deep%20Learning-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML%20Systems-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research%20Engineering-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/End--to--End%20AI%20Products-000000?style=flat-square" />
 </p>
 
 ---
 
 ## 👋 About
-I’m **Aryan Dwivedi**, an **MS in Artificial Intelligence** student at **Northwestern University**.  
-I build **machine learning systems** and **research prototypes** with an engineering-first mindset: clean data, strong evaluation, and scalable implementation.
+MS in Artificial Intelligence @ Northwestern University.  
+Building **machine learning systems** and **research prototypes** with strong fundamentals + clean engineering.
 
 ---
 
-## ⚡ Areas I Work In
-- Applied Deep Learning
-- ML Systems & MLOps Foundations
-- Data Engineering for ML
-- Backend APIs for ML Products
-- Simulation / System Design
-
----
-
-## 🧰 Tech Stack (Tool Cloud)
+## 🧠 AI / ML Tool Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,django,react,ts,js,tailwind,cs,dotnet,postgres,mysql,git,github,linux,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,django,postgres,docker,linux,git,github,react,ts&perline=13" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-Framework-black?style=flat-square&logo=pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-ML-black?style=flat-square&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-black?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Django-Backend-black?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/React-Frontend-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-Frontend-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/.NET-Systems-black?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-black?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Linux-Infra-black?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Docker-DevOps-black?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Git-Workflow-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/Transformers-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-111827?style=flat-square&logo=weightsandbiases&logoColor=FFBE00" />
+  <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/Plotly-111827?style=flat-square&logo=plotly&logoColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=22C55E" />
 </p>
 
 ---
 
-## 📌 Links
+## ⚙️ Core Areas
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning%20Training-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML%20Pipelines%20%26%20Deployment-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experimentation%20%26%20Evaluation-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20for%20AI%20Products-0F172A?style=for-the-badge" />
+</p>
+
+---
+
+## 🔗 Quick Links
 - **Email:** aryandwivedi352@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN/  
 - **Portfolio:** https://aryan9dwivedi.github.io/  
